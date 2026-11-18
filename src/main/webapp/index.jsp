@@ -19,6 +19,8 @@
         <input type="password" id="password" name="password"><br><br>
 	<label for="password">Sister_And_Brother_entry:</label><br>
         <input type="password" id="password" name="password"><br><br>
+	<label for="password">Mother_And_Father_entry:</label><br>
+        <input type="password" id="password" name="password"><br><br>
         <input type="submit" value="Submit">
     </form>
 </body>
